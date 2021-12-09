@@ -1,0 +1,22 @@
+{
+  "name": "save-the-bots",
+  "version": "1.0.0",
+  "description": "[@iotabots](https://twitter.com/iotabots)",
+  "main": "get_buyer_list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iotabots/save-the-bots.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iotabots/save-the-bots/issues"
+  },
+  "homepage": "https://github.com/iotabots/save-the-bots#readme",
+  "dependencies": {
+    "web3-eth-contract": "^1.6.0"
+  }
+}
