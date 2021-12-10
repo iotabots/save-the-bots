@@ -8,7 +8,7 @@ var Contract = require('web3-eth-contract');
 Contract.setProvider(etherUrl);
 
 
-var contract = new Contract(abi, "0x2f6EFb05Dd92Af605184199296979979379Ecbd3");
+var contract = new Contract(abi, "0x3a3c0D4BDAB6d0e9715Fa2eAA852af3038Bec342");
 
 async function main() {
     for (var i = 1; i <= 500; i++) {
